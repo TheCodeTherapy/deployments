@@ -1,7 +1,7 @@
 {
   "name": "@thecodetherapy/deployments",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "description": "GitHub Action for working painlessly with deployment statuses",
   "main": "dist/index.js",
   "scripts": {
